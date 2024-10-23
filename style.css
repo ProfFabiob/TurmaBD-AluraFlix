@@ -6,4 +6,5 @@ section{
     background-color: rgb(56, 1, 56);
     padding-top: 80px;
     padding-bottom: 80px;
+    display: flex;
 }
