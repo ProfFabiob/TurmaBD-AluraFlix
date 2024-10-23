@@ -1,4 +1,7 @@
 body {
-    color: white;
+    color: rgb(white);
     background-color: black;
+}
+section{
+    background-color: rgb(56, 1, 56);
 }
