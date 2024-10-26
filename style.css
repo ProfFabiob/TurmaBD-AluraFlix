@@ -1,9 +1,9 @@
-body {
-    color: rgb(white);
+body{
     background-color: black;
+    color: white;
 }
 section{
-    background-color: rgb(56, 1, 56);
+    background-color: rgb(109, 1, 109);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
